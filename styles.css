@@ -29,16 +29,16 @@ h1 {
     padding: 1rem;
 }
 
-.container {
-    margin: auto;
-    padding: 1rem;
-    max-width: 600px;
-}
-
 .hero-img {
     max-width: 250px;
     margin: auto;
     display: block;
+}
+
+.container {
+    margin: auto;
+    padding: 1rem;
+    max-width: 600px;
 }
 
 textarea {
@@ -77,10 +77,6 @@ footer {
     color: var(--cool-white);
     background: var(--cool-gray);
     border-top: 0.5rem solid var(--primary-color);
-}
-
-footer div {
-
 }
 
 footer p {
